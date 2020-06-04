@@ -1,21 +1,10 @@
 import express from 'express';
+import routes from './routes';
 
 const app = express();
 
-app.get('/users', (request, response) =>{
-    console.log("Olá mundo!");
+app.use(express.json());
 
-    // JSON RETURN FORMAT
-
-    response.json([
-        'Mateus',
-        'Lucas',
-        'Quezia',
-        'Jemima',
-        'João'
-    ]);
-
-    //response.send('Hello World');
-});
+app.use(routes);
 
 app.listen(3333);
