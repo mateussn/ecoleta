@@ -21,6 +21,7 @@ const itemsController = new ItemsController();
 
 routes.get('/items', itemsController.index);
 routes.post('/points', pointsController.create);
+routes.get('/points/:id', pointsController.show);
 
 // index = listagem, show = único registro, create/store, update, delete/destroy.
 
