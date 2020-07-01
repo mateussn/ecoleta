@@ -13,6 +13,8 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [License](#license)
+* [Contact](#contact)
  
 <!-- ABOUT THE PROJECT -->
 ## :eyeglasses: About The Project
@@ -26,7 +28,7 @@ NLW was an online and totally free week that had the promise of taking each prog
 
 ### Built With
 This project was created with the following technologies: 
-* [TypesScript](https://www.typescriptlang.org/)
+* [TypeScript](https://www.typescriptlang.org/)
 * [Node.js](https://nodejs.org/en/)
 * [ReactJS](https://reactjs.org/)
 * [SQLite](https://www.sqlite.org/index.html)
@@ -34,3 +36,9 @@ This project was created with the following technologies:
 ## :closed_book: License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
+
+<!-- CONTACT -->
+## Contact
+
+Linkedin - https://www.linkedin.com/in/mateus-de-souza-novaes-44a787150/
+
