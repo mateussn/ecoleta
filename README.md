@@ -6,7 +6,7 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mateussn/ecoleta?color=6633cc&style=plastic">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mateussn/ecoleta?color=34cb79&style=plastic">
 </p>
-<p align = "center"><img src=web/src/assets/home-background.svg></p>
+<p align = "center"><img src=readme/2d-art.png></p>
 
 <!-- TABLE OF CONTENTS -->
 ## :page_with_curl: Table of Contents
