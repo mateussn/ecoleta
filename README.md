@@ -12,6 +12,7 @@
 ## :page_with_curl: Table of Contents
 
 * [About the Project](#about-the-project)
+  * [Built With](#built-with)
  
 <!-- ABOUT THE PROJECT -->
 ## :eyeglasses: About The Project
@@ -22,6 +23,13 @@ Ecoleta is a project for ecological purposes started at Next Level Week based on
 
 What was Next Level Week?
 NLW was an online and totally free week that had the promise of taking each programmer to the next level, with a total focus on practice and a lot of programming.
+
+### Built With
+This project was created with the following technologies: 
+* [TypesSript](https://www.typescriptlang.org/)
+* [Node.js](https://nodejs.org/en/)
+* [ReactJS](https://reactjs.org/)
+* [SQLite](https://www.sqlite.org/index.html)
 
 ## :closed_book: License
 
