@@ -38,7 +38,10 @@ This project was created with the following technologies:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
 <!-- CONTACT -->
-## Contact
+## :telephone_receiver: Contact
 
-Linkedin - https://www.linkedin.com/in/mateus-de-souza-novaes-44a787150/
+Linkedin: https://www.linkedin.com/in/mateus-de-souza-novaes-44a787150/
 
+Email: mateussn13@hotmail.com
+
+Phone: +55 7499113-0129
