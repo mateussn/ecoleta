@@ -13,6 +13,10 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
 * [License](#license)
 * [Contact](#contact)
  
@@ -32,6 +36,15 @@ This project was created with the following technologies:
 * [Node.js](https://nodejs.org/en/)
 * [ReactJS](https://reactjs.org/)
 * [SQLite](https://www.sqlite.org/index.html)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+
+### Installation
+
+## Usage
 
 ## :closed_book: License
 
