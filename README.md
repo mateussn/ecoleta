@@ -16,7 +16,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [License](#license)
 * [Contact](#contact)
  
@@ -41,10 +40,36 @@ This project was created with the following technologies:
 ## Getting Started
 
 ### Prerequisites
+- Node.js v12.17.0 or above
+- NPM 6.14.5 or above
 
 ### Installation
+```bash
+# Clone this repository 
+$ git clone https://github.com/mateussn/ecoleta.git
 
-## Usage
+# Change the directory to server 
+$ cd server
+
+# Install the dependencies in server 
+$ npm install
+
+e.g. $ npm install celebrate
+
+# run the server and keep it running
+$ npm run dev 
+
+# Open another terminal tab and initialize the database
+$ npm run knex:migrate
+$ npm run knex:seed
+
+# Return one folder and change directory to web
+$ cd .. 
+$ cd web
+
+# Run the frontend
+$ npm start
+```
 
 ## :closed_book: License
 
