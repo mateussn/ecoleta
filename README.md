@@ -9,18 +9,19 @@
 <p align = "center"><img src=readme/2d-art.png></p>
 
 <!-- TABLE OF CONTENTS -->
-## :page_with_curl: Table of Contents
+# :page_with_curl: Table of Contents
 
-* [About the Project](#about-the-project)
+* [About the Project](#eyeglasses-about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Getting Started](#turtle-getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [License](#license)
-* [Contact](#contact)
+* [License](#closed_book-license)
+* [Contact](#telephone_receiver-contact)
  
 <!-- ABOUT THE PROJECT -->
-## :eyeglasses: About The Project
+
+# :eyeglasses: About The Project
 
 <p align = "center"><img src=readme/screenshot-1.png></p>
 
@@ -29,7 +30,7 @@ Ecoleta is a project for ecological purposes started at Next Level Week based on
 What was Next Level Week?
 NLW was an online and totally free week that had the promise of taking each programmer to the next level, with a total focus on practice and a lot of programming.
 
-### Built With
+## Built With
 This project was created with the following technologies: 
 * [TypeScript](https://www.typescriptlang.org/)
 * [Node.js](https://nodejs.org/en/)
@@ -37,13 +38,13 @@ This project was created with the following technologies:
 * [SQLite](https://www.sqlite.org/index.html)
 
 <!-- GETTING STARTED -->
-## Getting Started
+# :turtle: Getting Started
 
-### Prerequisites
+## Prerequisites
 - Node.js v12.17.0 or above
 - NPM 6.14.5 or above
 
-### Installation
+## Installation
 ```bash
 # Clone this repository 
 $ git clone https://github.com/mateussn/ecoleta.git
@@ -71,12 +72,12 @@ $ cd web
 $ npm start
 ```
 
-## :closed_book: License
+# :closed_book: License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
 <!-- CONTACT -->
-## :telephone_receiver: Contact
+# :telephone_receiver: Contact
 
 Linkedin: https://www.linkedin.com/in/mateus-de-souza-novaes-44a787150/
 
