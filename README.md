@@ -17,8 +17,10 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Contributing](#facepunch-contributing)
+* [Acknowledgements](#clap-acknowledgements)
 * [License](#closed_book-license)
 * [Contact](#telephone_receiver-contact)
+
  
 <!-- ABOUT THE PROJECT -->
 # :eyeglasses: About The Project
@@ -83,6 +85,12 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<!-- ACKNOWLEDGEMENTS -->
+# :clap: Acknowledgements
+* [Celebrate](https://github.com/arb/celebrate)
+* [IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)
+* [Leaflet](https://leafletjs.com/examples/quick-start/)
+
 <!-- LICENSE -->
 # :closed_book: License
 
@@ -96,3 +104,5 @@ Linkedin: https://www.linkedin.com/in/mateus-de-souza-novaes-44a787150/
 Email: mateussn13@hotmail.com
 
 Phone: +55 7499113-0129
+
+
