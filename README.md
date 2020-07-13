@@ -30,7 +30,7 @@ Ecoleta is a project for ecological purposes started at Next Level Week based on
 What was Next Level Week?
 NLW was an online and totally free week that had the promise of taking each programmer to the next level, with a total focus on practice and a lot of programming.
 
-## Built With
+### Built With
 This project was created with the following technologies: 
 * [TypeScript](https://www.typescriptlang.org/)
 * [Node.js](https://nodejs.org/en/)
@@ -40,11 +40,11 @@ This project was created with the following technologies:
 <!-- GETTING STARTED -->
 # :turtle: Getting Started
 
-## Prerequisites
+### Prerequisites
 - Node.js v12.17.0 or above
 - NPM 6.14.5 or above
 
-## Installation
+### Installation
 ```bash
 # Clone this repository 
 $ git clone https://github.com/mateussn/ecoleta.git
